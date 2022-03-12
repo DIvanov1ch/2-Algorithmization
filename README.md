@@ -1,2 +1,2 @@
-# 2-Algorithmization
+# 2_Algorithmization
 Introduction To Java. General programming (online course).
